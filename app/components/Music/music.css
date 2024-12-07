@@ -1,0 +1,7 @@
+.music-img{
+
+    background-image: url('/music.png');
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
