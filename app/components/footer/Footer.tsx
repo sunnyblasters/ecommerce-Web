@@ -44,7 +44,7 @@ function Footer() {
                         <Link href={'/'}><li className='text-base text-white font-normal text-left'>My Account</li></Link>
                         <Link href={'/'}><li className='text-base text-white font-normal text-left'>Login / Register</li></Link>
                         <Link href={'/'}><li className='text-base text-white font-normal text-left'>Cart</li></Link>
-                        <Link href={'app/wishList'}><li className='text-base text-white font-normal text-left'>Wishlist</li></Link>
+                        <Link href={'/wishList'}><li className='text-base text-white font-normal text-left'>Wishlist</li></Link>
                         <Link href={'/'}><li className='text-base text-white font-normal text-left'>Shop</li></Link>
                     </ul>
                 </div>
