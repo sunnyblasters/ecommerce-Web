@@ -38,7 +38,7 @@ function Hero() {
                       <Link className='text-[#FAFAFA] flex gap-2' href={'/'}><h3 className='border-b-[1px] text-base border-white'>Shop Now </h3><ArrowRight /></Link>
                   </div>
                   <div className='w-[50%] h-full flex justify-center items-center'>
-                        <Image src={'/iphone.jfif'} alt='' width={460} height={344}></Image>
+                        <Image src={'/iphone.png'} alt='' width={460} height={344}></Image>
                   </div>
             </section>
         </div>
